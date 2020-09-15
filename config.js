@@ -34,7 +34,7 @@ var config = {
         play: "音乐",
         bannar_coming: "来点Color",
         balloons_flying: "好像少点东西了？",
-        cake_fadein: "榴莲千层蛋糕？",
+        cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐紫岚宝贝",
         story: "A MESSAGE FOR YOU",
