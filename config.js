@@ -6,12 +6,12 @@ var config = {
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "心爱的小可爱",  // 同上...
         "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
+        "这是我们认识的",
+        "第五十五天哦",
+        "希望以后的生日",
+        "能好好陪在你身边",
         "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
+        "要把紫岚小可爱养的白白胖胖的",
         "然后抱走",
         "YAMI~~",
     ],
@@ -32,11 +32,11 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
+        bannar_coming: "来电Color",
+        balloons_flying: "好像少点东西了？",
+        cake_fadein: "榴莲千层蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐紫岚宝贝",
         story: "A MESSAGE FOR YOU",
     }
 };
