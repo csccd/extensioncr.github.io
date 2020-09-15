@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "来电Color",
+        bannar_coming: "来点Color",
         balloons_flying: "好像少点东西了？",
         cake_fadein: "榴莲千层蛋糕？",
         light_candle: "蜡烛？",
